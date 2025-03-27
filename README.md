@@ -1,2 +1,2 @@
-# itsc1316
+# itsc-1316
 college class linix 
